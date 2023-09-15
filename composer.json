@@ -17,10 +17,6 @@
         {
             "type": "composer",
             "url": "https://plugins.roundcube.net"
-        },
-        {
-            "type": "github",
-            "url": "https://github.com/titanomachy/roundcube-geolocation"
         }
     ],
     "require": {
